@@ -10,10 +10,10 @@ for i in range(n):
             print(' ', end='')  # Hollow space
     print()  # Move to next row
 
-output
+#output
 
-*****
-*   *
-*   *
-*   *
-*****
+#*****
+#*   *
+#*   *
+#*   *
+#*****
