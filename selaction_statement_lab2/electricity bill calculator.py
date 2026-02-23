@@ -24,3 +24,7 @@ if age >= 60:
 
 # Display final bill
 print("Total Electricity Bill: ₹", bill)
+#otput
+#Enter number of units consumed: 80
+#Enter your age: 35
+#Total Electricity Bill: ₹ 400.0
