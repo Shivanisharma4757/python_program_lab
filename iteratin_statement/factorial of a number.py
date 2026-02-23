@@ -19,3 +19,6 @@ else:
         factorial = factorial * i
     
     print("Factorial of", num, "is", factorial)
+#output
+#Enter a number: 5
+#Factorial of 5 is 120
