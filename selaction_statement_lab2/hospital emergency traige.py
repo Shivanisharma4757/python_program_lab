@@ -18,3 +18,8 @@ if age > 65 and category == "Moderate":
 
 # Display category
 print("Patient Category:", category)
+#output
+#Enter patient age: 45
+#Is heart rate abnormal? (yes/no): yes
+#Is there severe injury? (yes/no): no
+#Patient Category: Critical
