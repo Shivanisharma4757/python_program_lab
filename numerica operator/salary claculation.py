@@ -13,4 +13,9 @@ total_salary = basic_salary + hra + bonus
 
 # Display the results
 print("HRA:", hra)
+
 print("Total monthly salary:", total_salary)
+
+# output
+# HRA: 5000.0
+# Total monthly salary: 35000.0
