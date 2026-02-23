@@ -17,3 +17,6 @@ while num > 0:
 
 # Display the reversed number
 print("Reverse of", original, "is", reverse)
+#output
+#Enter a number: 1234
+#Reverse of 1234 is 4321
