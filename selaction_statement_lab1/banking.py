@@ -8,3 +8,8 @@ if amount > 200000 and account_age < 6 and international == "yes":
     print("Transaction Flagged for Manual Verification.")
 else:
     print("Transaction is Normal.")
+#output
+#Enter transaction amount: 300000
+#Enter account age in months: 3
+# the transaction international? (yes/no): yes
+#Transaction Flagged for Manual Verification.
