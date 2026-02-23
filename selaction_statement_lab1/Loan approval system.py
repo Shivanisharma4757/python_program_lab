@@ -21,3 +21,9 @@ else:
         print("Loan Rejected: Low Income and High Existing Loans.")
     else:
         print("Loan Approved after Income Verification.")
+#output
+#Enter credit score: 550
+#Enter monthly income: 40000
+#Enter total existing loan amount: 200000
+
+#Loan Rejected: Low Credit Score.
