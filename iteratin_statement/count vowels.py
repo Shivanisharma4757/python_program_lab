@@ -18,3 +18,6 @@ for char in text:
 
 # Display the result
 print("Number of vowels in the string:", count)
+#output
+#Enter a string: Hello Python World
+#Number of vowels in the string: 4
