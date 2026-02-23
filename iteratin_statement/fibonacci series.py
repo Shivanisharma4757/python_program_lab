@@ -22,3 +22,8 @@ else:
         next_term = first + second
         first = second
         second = next_term
+
+# output
+#Enter number of terms: 7
+#Fibonacci Series:
+#0 1 1 2 3 5 8 
