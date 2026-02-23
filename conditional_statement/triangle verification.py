@@ -48,3 +48,12 @@ if a_input.replace('.', '', 1).isdigit() and b_input.replace('.', '', 1).isdigit
 
 else:
     print("Error: Please enter valid numeric values.")
+
+#output
+#Enter side a: 6
+#Enter side b: 6
+#Enter side c: 6
+
+#The sides CAN form a triangle.
+#Triangle Type by Sides: Equilateral
+#Triangle Type by Angles: Acute-Angled
