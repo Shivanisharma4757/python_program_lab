@@ -12,7 +12,7 @@ for i in range(n):
         val = val * (i - j) // (j + 1)  # Compute next value
     print()  # Move to next line
 
-output
+#output
     1
    1 1
   1 2 1
