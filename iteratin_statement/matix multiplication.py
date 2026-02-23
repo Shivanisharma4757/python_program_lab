@@ -36,3 +36,7 @@ else:
     print("Resultant Matrix:")
     for row in result:
         print(row)
+#output
+#Resultant Matrix:
+#[58, 64]
+#[139, 154]
