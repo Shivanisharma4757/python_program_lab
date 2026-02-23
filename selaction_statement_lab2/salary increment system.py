@@ -31,3 +31,10 @@ elif attendance >= 85:
 
 # Display final increment
 print("Total Increment Percentage:", increment, "%")
+
+#output
+#Enter performance rating (1-5): 5
+#Enter years of experience: 12
+#Enter attendance percentage: 96
+#Total Increment Percentage: 18 %
+
