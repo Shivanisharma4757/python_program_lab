@@ -17,3 +17,8 @@ elif entrance_score < 80:
 
 else:
     print("Congratulations! You are Eligible for Admission.")
+#output
+#Enter 12th percentage: 88
+#Did you study Mathematics? (yes/no): yes
+#Enter entrance exam score: 92
+#Congratulations! You are Eligible for Admission.
