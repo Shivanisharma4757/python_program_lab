@@ -22,3 +22,18 @@ for num in range(1, 1001):
     # Check if number is Armstrong
     if original == sum_of_powers:
         print(original)
+
+#output
+#1
+#2
+#3
+#4
+#5
+#6
+#7
+#8
+#9
+#153
+#370
+#371
+#407
