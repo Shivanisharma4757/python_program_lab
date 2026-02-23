@@ -32,3 +32,14 @@ if (basic_input.replace('.', '', 1).isdigit() and
 
 else:
     print("Error: Please enter valid numeric values.")
+
+#output
+#Enter Basic Salary: 20000
+#Enter HRA amount: 5000
+#Enter DA amount: 3000
+
+#----- Salary Details -----
+#Basic Salary: ₹ 20000.0
+#HRA: ₹ 5000.0
+#DA: ₹ 3000.0
+#Gross Salary: ₹ 28000.0
