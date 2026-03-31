@@ -1,0 +1,27 @@
+# Function to find all pairs with given sum
+def find_pairs(nums, target):
+    pairs = []
+    seen = set()
+
+    for num in nums:
+        complement = target - num
+
+        if complement in seen:
+            pairs.append((complement, num))
+
+        seen.add(num)
+
+    return pairs
+
+
+# Input
+numbers = [2, 4, 3, 5, 7, 8, 9]
+target = 7
+
+# Output
+result = find_pairs(numbers, target)
+
+print("Pairs with given sum:", result)
+
+#output
+#Pairs with given sum: [(4, 3), (2, 5)]
